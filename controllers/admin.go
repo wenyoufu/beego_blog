@@ -2,8 +2,8 @@ package controllers
 
 import (
 	"fmt"
-	"github.com/Echosong/beego_blog/models"
-	"github.com/Echosong/beego_blog/util"
+	"beego_blog/models"
+	"beego_blog/util"
 	"strconv"
 	"strings"
 	"time"
